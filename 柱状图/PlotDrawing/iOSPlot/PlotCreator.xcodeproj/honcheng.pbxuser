@@ -1,0 +1,453 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PlotCreator */ = {
+		activeExec = 0;
+		executables = (
+			F897D6D113630CF40025FE6E /* PlotCreator */,
+		);
+	};
+	2860E325111B887F00E27156 /* AppDelegate_iPhone.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 572}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{682, 791}";
+		};
+	};
+	2860E326111B887F00E27156 /* AppDelegate_iPhone.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 1651}}";
+			sepNavSelRange = "{1360, 313}";
+			sepNavVisRange = "{871, 840}";
+		};
+	};
+	2860E32B111B888700E27156 /* AppDelegate_iPad.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {558, 585}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{0, 1271}";
+		};
+	};
+	2860E32C111B888700E27156 /* AppDelegate_iPad.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 819}}";
+			sepNavSelRange = "{201, 0}";
+			sepNavVisRange = "{164, 950}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F897D6D113630CF40025FE6E /* PlotCreator */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PlotCreator */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PlotCreator */,
+		);
+		codeSenseManager = F897D6E313630D020025FE6E /* Code sense */;
+		executables = (
+			F897D6D113630CF40025FE6E /* PlotCreator */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					364,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					667,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 325945083;
+			PBXWorkspaceStateSaveDate = 325945083;
+		};
+		perUserProjectItems = {
+			F801A553136D85E300BA1B35 /* PBXTextBookmark */ = F801A553136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A554136D85E300BA1B35 /* PBXTextBookmark */ = F801A554136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A555136D85E300BA1B35 /* PBXTextBookmark */ = F801A555136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A556136D85E300BA1B35 /* PBXTextBookmark */ = F801A556136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A557136D85E300BA1B35 /* PBXTextBookmark */ = F801A557136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A559136D85E300BA1B35 /* PBXTextBookmark */ = F801A559136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A55A136D85E300BA1B35 /* PBXTextBookmark */ = F801A55A136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A55B136D85E300BA1B35 /* PBXTextBookmark */ = F801A55B136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A55C136D85E300BA1B35 /* PBXTextBookmark */ = F801A55C136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A55D136D85E300BA1B35 /* PBXTextBookmark */ = F801A55D136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A55E136D85E300BA1B35 /* PBXTextBookmark */ = F801A55E136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A55F136D85E300BA1B35 /* PBXTextBookmark */ = F801A55F136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A560136D85E300BA1B35 /* PBXTextBookmark */ = F801A560136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A561136D85E300BA1B35 /* PBXTextBookmark */ = F801A561136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A563136D85E300BA1B35 /* PBXTextBookmark */ = F801A563136D85E300BA1B35 /* PBXTextBookmark */;
+			F801A6C1136D94A600BA1B35 /* PBXTextBookmark */ = F801A6C1136D94A600BA1B35 /* PBXTextBookmark */;
+			F801A6C2136D94A600BA1B35 /* PBXTextBookmark */ = F801A6C2136D94A600BA1B35 /* PBXTextBookmark */;
+			F801A6C3136D94A600BA1B35 /* PBXTextBookmark */ = F801A6C3136D94A600BA1B35 /* PBXTextBookmark */;
+			F801A6C4136D94A600BA1B35 /* PBXTextBookmark */ = F801A6C4136D94A600BA1B35 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F897D6E213630D020025FE6E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* PlotCreator_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {905, 535}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	F801A553136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F897D6EF13630FD40025FE6E /* PCPieChart.h */;
+		name = "PCPieChart.h: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 1117;
+		vrLoc = 222;
+	};
+	F801A554136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F897D6F013630FD40025FE6E /* PCPieChart.m */;
+		name = "PCPieChart.m: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 835;
+		vrLoc = 728;
+	};
+	F801A555136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F88CC4C613684F0E0096327F /* PCLineChartView.h */;
+		name = "PCLineChartView.h: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 774;
+	};
+	F801A556136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F88CC4C713684F0E0096327F /* PCLineChartView.m */;
+		name = "PCLineChartView.m: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 765;
+		vrLoc = 774;
+	};
+	F801A557136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E325111B887F00E27156 /* AppDelegate_iPhone.h */;
+		name = "AppDelegate_iPhone.h: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 791;
+		vrLoc = 682;
+	};
+	F801A559136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F897D6FE136311E60025FE6E /* PieChartViewController.h */;
+		name = "PieChartViewController.h: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 809;
+		vrLoc = 611;
+	};
+	F801A55A136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F897D6FF136311E60025FE6E /* PieChartViewController.m */;
+		name = "PieChartViewController.m: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 728;
+	};
+	F801A55B136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F83260C01363D91E0045F9DC /* PieChartViewController2.h */;
+		name = "PieChartViewController2.h: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 1271;
+		vrLoc = 0;
+	};
+	F801A55C136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F83260C11363D91E0045F9DC /* PieChartViewController2.m */;
+		name = "PieChartViewController2.m: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 1271;
+		vrLoc = 0;
+	};
+	F801A55D136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F83260681363D49B0045F9DC /* ChartListViewController.h */;
+		name = "ChartListViewController.h: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 777;
+		vrLoc = 611;
+	};
+	F801A55E136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F83260691363D49B0045F9DC /* ChartListViewController.m */;
+		name = "ChartListViewController.m: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 805;
+		vrLoc = 728;
+	};
+	F801A55F136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F88CC4D113684FD30096327F /* LineChartViewController.h */;
+		name = "LineChartViewController.h: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 611;
+	};
+	F801A560136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F88CC4D213684FD30096327F /* LineChartViewController.m */;
+		name = "LineChartViewController.m: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 806;
+		vrLoc = 728;
+	};
+	F801A561136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F832608E1363D5CF0045F9DC /* GenericViewController.h */;
+		name = "GenericViewController.h: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 775;
+		vrLoc = 678;
+	};
+	F801A563136D85E300BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* AppDelegate_iPad.m */;
+		name = "AppDelegate_iPad.m: 13";
+		rLen = 0;
+		rLoc = 201;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 164;
+	};
+	F801A6C1136D94A600BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* AppDelegate_iPad.h */;
+		name = "AppDelegate_iPad.h: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 1271;
+		vrLoc = 0;
+	};
+	F801A6C2136D94A600BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E326111B887F00E27156 /* AppDelegate_iPhone.m */;
+		name = "AppDelegate_iPhone.m: 37";
+		rLen = 313;
+		rLoc = 1360;
+		rType = 0;
+		vrLen = 840;
+		vrLoc = 871;
+	};
+	F801A6C3136D94A600BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F832608F1363D5CF0045F9DC /* GenericViewController.m */;
+		name = "GenericViewController.m: 32";
+		rLen = 0;
+		rLoc = 1290;
+		rType = 0;
+		vrLen = 1325;
+		vrLoc = 1366;
+	};
+	F801A6C4136D94A600BA1B35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = F83260691363D49B0045F9DC /* ChartListViewController.m */;
+		name = "ChartListViewController.m: 45";
+		rLen = 504;
+		rLoc = 1522;
+		rType = 0;
+		vrLen = 763;
+		vrLoc = 1477;
+	};
+	F83260681363D49B0045F9DC /* ChartListViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 546}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{611, 777}";
+		};
+	};
+	F83260691363D49B0045F9DC /* ChartListViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 2067}}";
+			sepNavSelRange = "{1522, 504}";
+			sepNavVisRange = "{1477, 763}";
+		};
+	};
+	F832608E1363D5CF0045F9DC /* GenericViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 559}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{678, 775}";
+		};
+	};
+	F832608F1363D5CF0045F9DC /* GenericViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 1300}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{1366, 1325}";
+		};
+	};
+	F83260C01363D91E0045F9DC /* PieChartViewController2.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 546}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{0, 1271}";
+		};
+	};
+	F83260C11363D91E0045F9DC /* PieChartViewController2.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 1807}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{0, 1271}";
+		};
+	};
+	F88CC4C613684F0E0096327F /* PCLineChartView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1356, 936}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{774, 804}";
+		};
+	};
+	F88CC4C713684F0E0096327F /* PCLineChartView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 4108}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{774, 765}";
+		};
+	};
+	F88CC4D113684FD30096327F /* LineChartViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 559}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{611, 870}";
+		};
+	};
+	F88CC4D213684FD30096327F /* LineChartViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 1521}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{728, 806}";
+		};
+	};
+	F897D6D113630CF40025FE6E /* PlotCreator */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PlotCreator;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F897D6E213630D020025FE6E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F897D6E313630D020025FE6E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F897D6EF13630FD40025FE6E /* PCPieChart.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1314, 1092}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{222, 1117}";
+		};
+	};
+	F897D6F013630FD40025FE6E /* PCPieChart.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 6006}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{728, 835}";
+			sepNavWindowFrame = "{{15, 135}, {1295, 888}}";
+		};
+	};
+	F897D6FE136311E60025FE6E /* PieChartViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 546}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{611, 809}";
+		};
+	};
+	F897D6FF136311E60025FE6E /* PieChartViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {542, 1729}}";
+			sepNavSelRange = "{1290, 0}";
+			sepNavVisRange = "{728, 823}";
+		};
+	};
+}

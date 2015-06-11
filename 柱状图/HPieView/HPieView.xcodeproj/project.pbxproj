@@ -1,0 +1,291 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6BFFF398161583D30052B678 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BFFF397161583D30052B678 /* UIKit.framework */; };
+		6BFFF39A161583D30052B678 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BFFF399161583D30052B678 /* Foundation.framework */; };
+		6BFFF39C161583D30052B678 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BFFF39B161583D30052B678 /* CoreGraphics.framework */; };
+		6BFFF3A2161583D30052B678 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6BFFF3A0161583D30052B678 /* InfoPlist.strings */; };
+		6BFFF3A4161583D30052B678 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BFFF3A3161583D30052B678 /* main.m */; };
+		6BFFF3A8161583D30052B678 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BFFF3A7161583D30052B678 /* AppDelegate.m */; };
+		6BFFF3B3161583F60052B678 /* SMClove.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BFFF3AF161583F60052B678 /* SMClove.m */; };
+		6BFFF3B4161583F60052B678 /* HPieChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BFFF3B2161583F60052B678 /* HPieChartView.m */; };
+		6BFFF3BC161586A50052B678 /* PieViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BFFF3BB161586A50052B678 /* PieViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6BFFF393161583D20052B678 /* HPieView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HPieView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BFFF397161583D30052B678 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		6BFFF399161583D30052B678 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		6BFFF39B161583D30052B678 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		6BFFF39F161583D30052B678 /* HPieView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HPieView-Info.plist"; sourceTree = "<group>"; };
+		6BFFF3A1161583D30052B678 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6BFFF3A3161583D30052B678 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6BFFF3A5161583D30052B678 /* HPieView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HPieView-Prefix.pch"; sourceTree = "<group>"; };
+		6BFFF3A6161583D30052B678 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		6BFFF3A7161583D30052B678 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		6BFFF3AE161583F60052B678 /* SMClove.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMClove.h; sourceTree = "<group>"; };
+		6BFFF3AF161583F60052B678 /* SMClove.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMClove.m; sourceTree = "<group>"; };
+		6BFFF3B1161583F60052B678 /* HPieChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HPieChartView.h; sourceTree = "<group>"; };
+		6BFFF3B2161583F60052B678 /* HPieChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HPieChartView.m; sourceTree = "<group>"; };
+		6BFFF3BA161586A50052B678 /* PieViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PieViewController.h; sourceTree = "<group>"; };
+		6BFFF3BB161586A50052B678 /* PieViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PieViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6BFFF390161583D20052B678 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6BFFF398161583D30052B678 /* UIKit.framework in Frameworks */,
+				6BFFF39A161583D30052B678 /* Foundation.framework in Frameworks */,
+				6BFFF39C161583D30052B678 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6BFFF388161583D20052B678 = {
+			isa = PBXGroup;
+			children = (
+				6BFFF39D161583D30052B678 /* HPieView */,
+				6BFFF396161583D30052B678 /* Frameworks */,
+				6BFFF394161583D20052B678 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6BFFF394161583D20052B678 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6BFFF393161583D20052B678 /* HPieView.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6BFFF396161583D30052B678 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6BFFF397161583D30052B678 /* UIKit.framework */,
+				6BFFF399161583D30052B678 /* Foundation.framework */,
+				6BFFF39B161583D30052B678 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6BFFF39D161583D30052B678 /* HPieView */ = {
+			isa = PBXGroup;
+			children = (
+				6BFFF3AE161583F60052B678 /* SMClove.h */,
+				6BFFF3AF161583F60052B678 /* SMClove.m */,
+				6BFFF3B1161583F60052B678 /* HPieChartView.h */,
+				6BFFF3B2161583F60052B678 /* HPieChartView.m */,
+				6BFFF3A6161583D30052B678 /* AppDelegate.h */,
+				6BFFF3A7161583D30052B678 /* AppDelegate.m */,
+				6BFFF39E161583D30052B678 /* Supporting Files */,
+				6BFFF3BA161586A50052B678 /* PieViewController.h */,
+				6BFFF3BB161586A50052B678 /* PieViewController.m */,
+			);
+			path = HPieView;
+			sourceTree = "<group>";
+		};
+		6BFFF39E161583D30052B678 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6BFFF39F161583D30052B678 /* HPieView-Info.plist */,
+				6BFFF3A0161583D30052B678 /* InfoPlist.strings */,
+				6BFFF3A3161583D30052B678 /* main.m */,
+				6BFFF3A5161583D30052B678 /* HPieView-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6BFFF392161583D20052B678 /* HPieView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6BFFF3AB161583D30052B678 /* Build configuration list for PBXNativeTarget "HPieView" */;
+			buildPhases = (
+				6BFFF38F161583D20052B678 /* Sources */,
+				6BFFF390161583D20052B678 /* Frameworks */,
+				6BFFF391161583D20052B678 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HPieView;
+			productName = HPieView;
+			productReference = 6BFFF393161583D20052B678 /* HPieView.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6BFFF38A161583D20052B678 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0430;
+				TargetAttributes = {
+					6BFFF392161583D20052B678 = {
+						DevelopmentTeam = 7M9RKULB3T;
+					};
+				};
+			};
+			buildConfigurationList = 6BFFF38D161583D20052B678 /* Build configuration list for PBXProject "HPieView" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6BFFF388161583D20052B678;
+			productRefGroup = 6BFFF394161583D20052B678 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6BFFF392161583D20052B678 /* HPieView */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6BFFF391161583D20052B678 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6BFFF3A2161583D30052B678 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6BFFF38F161583D20052B678 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6BFFF3A4161583D30052B678 /* main.m in Sources */,
+				6BFFF3A8161583D30052B678 /* AppDelegate.m in Sources */,
+				6BFFF3B3161583F60052B678 /* SMClove.m in Sources */,
+				6BFFF3B4161583F60052B678 /* HPieChartView.m in Sources */,
+				6BFFF3BC161586A50052B678 /* PieViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6BFFF3A0161583D30052B678 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6BFFF3A1161583D30052B678 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6BFFF3A9161583D30052B678 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6BFFF3AA161583D30052B678 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6BFFF3AC161583D30052B678 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HPieView/HPieView-Prefix.pch";
+				INFOPLIST_FILE = "HPieView/HPieView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5C976384-5DA9-4F2A-BF1E-7E6298997506";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		6BFFF3AD161583D30052B678 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "HPieView/HPieView-Prefix.pch";
+				INFOPLIST_FILE = "HPieView/HPieView-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5C976384-5DA9-4F2A-BF1E-7E6298997506";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6BFFF38D161583D20052B678 /* Build configuration list for PBXProject "HPieView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6BFFF3A9161583D30052B678 /* Debug */,
+				6BFFF3AA161583D30052B678 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6BFFF3AB161583D30052B678 /* Build configuration list for PBXNativeTarget "HPieView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6BFFF3AC161583D30052B678 /* Debug */,
+				6BFFF3AD161583D30052B678 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6BFFF38A161583D20052B678 /* Project object */;
+}
